@@ -1,4 +1,4 @@
-package com.tutorial.`class`
+package com.tutorial.oop
 
 class Champion {
     var name : String = "champ"
